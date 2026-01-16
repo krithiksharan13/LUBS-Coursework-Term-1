@@ -121,6 +121,13 @@ The coursework consists of **two equally weighted analytical case studies**:
 - Decision science & MCDA methods
 
 ---
+## 👤 Author Information
+
+- **Name:** Krithik Sharan Suresh Alagianayagi  
+- **Roll Number / Student ID:** 202000567  
+- **Course:** MSc Data Science and Analytics  
+- **Institution:** University of Leeds
+---
 
 ## 🎓 Academic Integrity
 - This repository contains **entirely my own work**, submitted as an individual assessment.
